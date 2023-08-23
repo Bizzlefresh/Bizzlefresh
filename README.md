@@ -10,7 +10,7 @@
 
 <img align="right" src="https://th.bing.com/th/id/OIP.57wgXKAMWj8445nB4jdTnwHaFj?pid=ImgDet&rs=1"/>
 
-- 🌱 I’m currently learning **Advanced Python programming, Cloud security**
+- 🌱 I’m currently learning **Advanced Python programming, AWS and Microsoft Azure Cloud security**
 
 - 📫 How to reach me **adebiyiolanrewaju@gmail.com**
 
