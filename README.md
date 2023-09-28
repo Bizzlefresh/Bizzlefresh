@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced Python programming, AWS and Microsoft Azure Cloud security**
 
-- 📫 How to reach me **adebiyiolanrewaju@gmail.com**
+- 📫 How to reach me **adebiyiolanrewaju12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
