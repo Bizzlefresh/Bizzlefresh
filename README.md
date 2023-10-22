@@ -1,6 +1,6 @@
 [![MasterHead](https://th.bing.com/th/id/R.5b3eead8f6d24b19d1835fd1d235f2ab?rik=9%2bS0LgVMXZ1vdg&pid=ImgRaw&r=0)](https://github.com/Bizzlefresh)
 <h1 align="center">Hey there 👋, I'm Adebiyi Ayokanmbi</h1>
-<h3 align="center">A Cloud Security professional</h3>
+<h3 align="center">A Junior Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bizzlefresh&label=Profile%20views&color=0e75b6&style=flat" alt="bizzlefresh" /> </p>
 
